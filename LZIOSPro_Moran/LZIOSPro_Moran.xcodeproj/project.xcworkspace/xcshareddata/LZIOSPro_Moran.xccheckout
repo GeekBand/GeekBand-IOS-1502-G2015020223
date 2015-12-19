@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>36A67946-26BC-4C0C-A5EB-2ED1BD0C4585</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LZIOSPro_Moran</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3A50693CF3D2FABEC37541EE5BE0E4FF01CCB242</key>
+		<string>github.com:GeekBand/GeekBand-IOS-1502-G2015020223.git</string>
+		<key>D7886FC13D75E7AC50ACC8ED8D5A03118C8A13EF</key>
+		<string>github.com:comst007/LZMoran.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LZIOSPro_Moran/LZIOSPro_Moran.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3A50693CF3D2FABEC37541EE5BE0E4FF01CCB242</key>
+		<string>../../..</string>
+		<key>D7886FC13D75E7AC50ACC8ED8D5A03118C8A13EF</key>
+		<string>../../../../LZMoran</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:GeekBand/GeekBand-IOS-1502-G2015020223.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3A50693CF3D2FABEC37541EE5BE0E4FF01CCB242</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3A50693CF3D2FABEC37541EE5BE0E4FF01CCB242</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GeekBand-IOS-1502-G2015020223</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D7886FC13D75E7AC50ACC8ED8D5A03118C8A13EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LZMoran</string>
+		</dict>
+	</array>
+</dict>
+</plist>
